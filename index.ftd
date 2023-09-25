@@ -124,7 +124,7 @@ link: https://instagram.com/rohannn_72_
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:rohan.vermaji2003@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
