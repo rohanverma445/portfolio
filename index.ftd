@@ -19,7 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /rohan verma
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -108,19 +108,19 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/rohan-verma-a73b7a256
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/@rohanverma7258
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/rohanverma445
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/rohannn_72_
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
